@@ -2,3 +2,9 @@ You sneaked up into a backdoor in the reactor control room.
 It looks like there are several technical transport tubes with different names on it.
 To your relief, there is a tube with the name "Hangar Bay" written on it.
 To access it, you should enter the single line command into the terminal to go straight to the "Hangar Bay".
+
+As the computer says, the tube will take around 5 minutes to transport you to the Hangar Bay
+
+CHANGE:
+
+event_timer +5 minutes
