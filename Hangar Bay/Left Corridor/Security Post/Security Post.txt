@@ -1,0 +1,9 @@
+You've entered the security post.
+
+It is swarmed with alien guards.
+After a fierce fight, you managed to come out victorious, but it took you some time.
+
+CHANGES:
+
+event_timer                 +5 minutes
+security_post_access_code   4587
