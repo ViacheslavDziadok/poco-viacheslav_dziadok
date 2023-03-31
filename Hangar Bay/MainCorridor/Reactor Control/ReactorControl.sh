@@ -4,4 +4,4 @@ for i in {0..5}; do
     sleep 1
     clear
 done
-echo "Now the reactor is overload. But can't get back to the Hangar Bay."
+echo "Now the reactor is overload. But can't get back to the Hangar Bay !!!"
