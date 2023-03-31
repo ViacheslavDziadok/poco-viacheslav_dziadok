@@ -1,0 +1,7 @@
+##################################################################################################################################################
+#                                                                                                                                                 #
+# Sorry, you have to go back to the previous room. There's another secret room. You might find what you're looking for in that room.              #
+#                                                                                                                                                 #
+#                                                                                                                                                 #
+# Note: You can use the "ls -a" command to show hidden files.                                                                                     #
+###################################################################################################################################################
